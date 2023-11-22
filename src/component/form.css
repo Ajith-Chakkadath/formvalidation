@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.conatainer{
+   margin-right: auto;
+   margin-left: auto;
+   width: 500px;
+   height: 500px;
+}
+
+.forme{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.nameDis{
+    margin: 10px;
+}
+.emailDis{
+    margin: 10px;
+}
+label{
+    margin-right: 10px;
+    font-size: 17px;
+    font-weight: 500;
+
+}
+input{
+    width: 150px;
+    margin-right: 10px;
+}
+
+.btn{
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    border: none;
+    background-color: blue;
+    color: #fff;
+}
